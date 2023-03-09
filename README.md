@@ -1,6 +1,6 @@
-<h1 align="center">Привки, я Паша</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
+<div id="Au" align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Здравствуй,%20путник!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Меня%20Пашой%20звать!!!&descAlignY=60&descAlign=62" height="400"/> 
+</div>
 <div id="Au" align="center">
   <a href ="https://www.youtube.com/watch?v=xm3YgoEiEDc">
 <img src="https://github.com/JollyFoxy/JollyFoxy/blob/main/ezgif-3-1d64171235.gif" height="400"/> 
