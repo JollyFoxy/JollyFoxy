@@ -9,7 +9,7 @@
   <a href ="https://t.me/Jolly_Foxy">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt = "No Teljka"/> 
     </a>
-    <a href ="[https://t.me/Jolly_Foxy](https://gitlab.com/JollyFoxy)">
+    <a href ="https://gitlab.com/JollyFoxy">
 <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt = "No GitLabo"/> 
     </a>
 </div>
