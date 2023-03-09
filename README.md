@@ -17,3 +17,6 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Нажми+на+котика)](https://github.com/JollyFoxy)
+<div id="Au" align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Заходи%20снова,%20уптник!&fontSize=40&animation=twinkling" height="400"/> 
+</div>
