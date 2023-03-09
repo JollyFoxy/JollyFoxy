@@ -15,3 +15,5 @@
 <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt = "No GitLabo"/> 
     </a>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Нажми+на+котика)](https://github.com/JollyFoxy)
