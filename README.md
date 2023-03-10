@@ -1,5 +1,5 @@
 <div id="Au" align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=356&section=header&text=Здравствуй,%20путник!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=&descAlignY=60&descAlign=62" height="400"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Здравствуй,%20путник!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=&descAlignY=60&descAlign=62" height="400"/> 
 </div>
 <div id="Au" align="center">
   <a href ="https://www.youtube.com/watch?v=xm3YgoEiEDc">
