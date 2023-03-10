@@ -1,5 +1,5 @@
 <div id="Au" align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Здравствуй,%20путник!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Меня%20Пашой%20звать!!!&descAlignY=60&descAlign=62" height="400"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=356&section=header&text=Здравствуй,%20путник!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=&descAlignY=60&descAlign=62" height="400"/> 
 </div>
 <div id="Au" align="center">
   <a href ="https://www.youtube.com/watch?v=xm3YgoEiEDc">
@@ -18,5 +18,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Нажми+на+котика)](https://github.com/JollyFoxy)
 <div id="Au" align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Заходи%20снова,%20путник!&fontSize=40&animation=twinkling" height="400"/> 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Заходи%20снова,%20путник!&fontSize=40&animation=twinkling" height="150"/> 
 </div>
