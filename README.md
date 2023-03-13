@@ -1,6 +1,9 @@
 <div id="Au" align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Здравствуй,%20путник!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=&descAlignY=60&descAlign=62" height="400"/> 
 </div>
+<div align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="550">
+</div>
 <div id="Au" align="center">
   <a href ="https://www.youtube.com/watch?v=xm3YgoEiEDc">
 <img src="https://github.com/JollyFoxy/JollyFoxy/blob/main/ezgif-3-1d64171235.gif" height="400"/> 
